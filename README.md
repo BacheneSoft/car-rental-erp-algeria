@@ -12,7 +12,7 @@ Rental agencies in Algeria typically manage their fleets with spreadsheets and p
 
 Built solo, from initial architecture through a live production deployment currently serving real agencies.
 
-🌐 Live platform: app.bachenesoft.com
+🌐 Live platform: [app.bachenesoft.com](https://app.bachenesoft.com/)
 
 ## Screenshots
 
